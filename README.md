@@ -29,7 +29,8 @@ The dataset contains different attributes of the sale of used cars like: the pri
 7. Run the correlation to the target so we can identify what features have a strong positive correlation.
 
 ### Data Preparation
-See the prompt_II.ipynb, there in the section Data Preparation, the data was reviewed and cleaned, next is a summary of what it was done:
+See the [prompt_II.ipynb](https://github.com/DiegoHermosa/UsedCarPrices/blob/main/prompt_II.ipynb) jupyter notebook, there in the section Data Preparation, the data was reviewed and cleaned, next is a summary of what it was done:
+
 
 1. Missing data: the vehicles dataset had some features with missing data which was cleaned
    ![image](https://github.com/DiegoHermosa/UsedCarPrices/assets/160977826/5286fcad-3ed3-43be-a7c0-c038f1a3bf3e)
