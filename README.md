@@ -30,9 +30,10 @@ The dataset contains different attributes of the sale of used cars like: the pri
 
 ### Data Preparation
 See the prompt_II.ipynb, there in the section Data Preparation, the data was reviewed and cleaned, next is a summary of what it was done:
+
 1. Missing data: the vehicles dataset had some features with missing data which was cleaned
    ![image](https://github.com/DiegoHermosa/UsedCarPrices/assets/160977826/5286fcad-3ed3-43be-a7c0-c038f1a3bf3e)
-2. Price outliers: the price outliers were removed getting a more distribed price data
+2. Price outliers: the price outliers were removed getting a more distributed price data
    ![image](https://github.com/DiegoHermosa/UsedCarPrices/assets/160977826/19205953-4966-4a6f-98b1-7de5f589113c)
 3. Categorical features: the categorical features were identified, their values were adjusted and them we encoded them by TargetEncoder tool.
 4. Initial correlation data with Price: we ran the correlation founding the initial features having impact on the Price.
